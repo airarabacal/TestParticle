@@ -1,0 +1,12 @@
+C:\Users\Aira\Documents\ASP.Net projects\TestParticle\TestParticle\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\TestParticle.exe
+C:\Users\Aira\Documents\ASP.Net projects\TestParticle\TestParticle\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\wwwroot\index.html
+C:\Users\Aira\Documents\ASP.Net projects\TestParticle\TestParticle\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\wwwroot\p5.js
+C:\Users\Aira\Documents\ASP.Net projects\TestParticle\TestParticle\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\wwwroot\particle.js
+C:\Users\Aira\Documents\ASP.Net projects\TestParticle\TestParticle\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\wwwroot\sketch.js
+C:\Users\Aira\Documents\ASP.Net projects\TestParticle\TestParticle\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\wwwroot\web.config
+C:\Users\Aira\Documents\ASP.Net projects\TestParticle\TestParticle\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\appsettings.Development.json
+C:\Users\Aira\Documents\ASP.Net projects\TestParticle\TestParticle\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\appsettings.json
+C:\Users\Aira\Documents\ASP.Net projects\TestParticle\TestParticle\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\TestParticle.dll
+C:\Users\Aira\Documents\ASP.Net projects\TestParticle\TestParticle\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\TestParticle.deps.json
+C:\Users\Aira\Documents\ASP.Net projects\TestParticle\TestParticle\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\TestParticle.runtimeconfig.json
+C:\Users\Aira\Documents\ASP.Net projects\TestParticle\TestParticle\obj\Release\netcoreapp3.1\win-x64\PubTmp\Out\TestParticle.pdb
